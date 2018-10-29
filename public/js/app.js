@@ -17,7 +17,7 @@ function truncateTo(str, digits) {
 new Vue({
   el: '#app',
   data: {
-    secret_key: 'JBSWY3DPEHPK3PXP',
+    secret_key: '4QH3BVS5YEAIUA42',
     digits: 6,
     period: 30,
     updatingIn: 0,
